@@ -1,0 +1,13 @@
+[
+    {
+        "resource_category": "Book",
+        "id": "1",
+        "book_name": "2",
+        "book_isbn": "2",
+        "book_publisher": "2",
+        "author": {
+            "author_id": "2",
+            "author_name": "2"
+        }
+    }
+]
